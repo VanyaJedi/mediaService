@@ -1,10 +1,9 @@
 # mediaService
 Simplify using mediaQueryList on project
 
-##Installing
+## Installing
 
-
-
+npm i jedi-mediaservice
 
 ## Usage
 

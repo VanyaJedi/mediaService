@@ -1,5 +1,5 @@
 {
-  "name": "mediaservice",
+  "name": "jedi-mediaservice",
   "version": "1.0.0",
   "description": "Simplify using mediaQueryList on project",
   "module": "src/mediaService.js",
@@ -11,11 +11,8 @@
     "type": "git",
     "url": "git+https://github.com/VanyaJedi/mediaService.git"
   },
-  "author": {
-    "name": "Ivan Nekipelov",
-    "email": "vanya71310@gmail.com"
-  },
-  "license": "ISC",
+  "author": "Ivan Nekipelov <vanya71310@gmail.com>",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/VanyaJedi/mediaService/issues"
   },
@@ -30,5 +27,11 @@
   },
   "dependencies": {
     "esm": "^3.2.25"
-  }
+  },
+  "main": "build/index.js",
+  "keywords": [
+    "mediaQueryList",
+    "matchMedia",
+    "mediaService"
+  ]
 }
