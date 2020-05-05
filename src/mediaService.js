@@ -1,4 +1,4 @@
-class MediaService {
+export default class MediaService {
     constructor(settings) {
         this.subscriptionsByScreenSize = {};
         this.subscriptionsById = {};
