@@ -10,7 +10,7 @@ npm i jedi-mediaservice
 Function constructor MediaService getting as input array of objects with 2 properites 'key' and 'matchMedia' where key is a screenType and matchMedia is a media query, for example
 
 ```
-import MediaService from "mediaService";
+import MediaService from "jedi-mediaservice";
 
 const settings = [
     {

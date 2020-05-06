@@ -1,6 +1,6 @@
 {
   "name": "jedi-mediaservice",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Simplify using mediaQueryList on project",
   "module": "src/mediaService.js",
   "scripts": {
